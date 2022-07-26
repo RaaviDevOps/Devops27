@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World
 Data added for conflit scenario
 conflit resolve
 Test git stash
 git stash
+=======
+Hello World
+>>>>>>> parent of b54a169 (Revert "Added initial file")
