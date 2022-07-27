@@ -5,3 +5,4 @@ Test git stash
 git stash
 Hello World
 reset
+Added for git trigger from feature branch
