@@ -6,3 +6,4 @@ git stash
 Hello World
 reset
 Added for git trigger from feature branch
+Added for git trigger from feature branch1
